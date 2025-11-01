@@ -10,9 +10,9 @@ This repository contains a small full-stack application for managing a Cybersecu
 - Evidence upload management that organizes files per control in `data/uploads/`.
 - Optional Excel import utility to enrich assessment objectives and methods from a workbook.
   
-<img width="1258" height="634" alt="Dashboard" src="https://github.com/user-attachments/assets/14cebd40-07b2-47c8-a44b-14176b9b185d" />
+<img width="1228" height="626" alt="Dashboard" src="https://github.com/user-attachments/assets/2433edfd-e7df-47ec-a118-34738ae02972" />
 
-<img width="1250" height="1164" alt="Controls" src="https://github.com/user-attachments/assets/31f2004f-5cc7-4078-99b1-5ace1325e987" />
+<img width="717" height="669" alt="Controls" src="https://github.com/user-attachments/assets/0e7f3b61-579a-42c7-a92f-344c4e2694c8" />
 
 ## Tech Stack
 - **Backend:** FastAPI, SQLModel/SQLite, Pydantic, Uvicorn.
